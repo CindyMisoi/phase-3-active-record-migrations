@@ -1,1 +1,3 @@
-# add the Artist class here
+# connect to the database first
+class Artist < ActiveRecord::Base
+end
